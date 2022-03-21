@@ -1,12 +1,11 @@
 <div align="center">
-<h1>Eruptsy</h1>
+  <h1>Eruptsy</h1>
+  <p>The Latin Programmer</p>
 </div>
 
 <div align="center">
-The Latin Code Writer
+  <img src="http://skrillec.ovh/gehgedhb.png">
 </div>
-
-<img src="http://skrillec.ovh/gehgedhb.png">
 
 # About Me
 

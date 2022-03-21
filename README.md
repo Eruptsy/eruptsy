@@ -6,9 +6,7 @@
 The Latin Code Writer
 </div>
 
-<p>
-    <img width="80" src="https://media.discordapp.net/attachments/947128520105132042/955478123443548210/gehgedhb.png">
-</p>
+<img width="80" src="https://media.discordapp.net/attachments/947128520105132042/955478123443548210/gehgedhb.png">
 
 # About Me
 

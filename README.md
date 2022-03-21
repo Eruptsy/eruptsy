@@ -28,6 +28,12 @@ PY, PHP, C#, JS, c, ASM, NIM
 - [ ] Skrillec Botnet
 - [ ] Packet Watch
 
+### What type of stuff i usually work on?
+
+* Server/Client Application
+* ioT Botnets
+* Most of the time i work on learn new stuff on programming
+
 ### All stuff im Interested.(or Learn more)
 
 * General Programming

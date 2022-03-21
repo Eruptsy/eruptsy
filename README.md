@@ -11,6 +11,8 @@
 
 24 y/o Programmer Located in Eastern US
 
+[Main Discord](https://join.skrillec.pw/)
+
 ### What got me into coding?
 
 I've started modding PS3 around 2014 by that time i've already had dealt with VB.NET making fun skype tools then got into C# for Real Time Editing modification on PS3 GAMES.
@@ -35,7 +37,7 @@ PY, PHP, C#, JS, c, ASM, NIM
 
 * Server/Client Application
 * ioT Botnets
-* Most of the time i work on learn new stuff on programming
+* Most of the time i work on learning new stuff on programming in general. i like to learn new things
 
 ### All stuff im Interested.(or Learn more)
 
@@ -45,3 +47,4 @@ PY, PHP, C#, JS, c, ASM, NIM
 * Binary/OS Exploitation
 * Advance Web Pentesting
 * Quantum Computing
+* Server Devices

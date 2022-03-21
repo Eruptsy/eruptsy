@@ -18,6 +18,7 @@ I don't remember exactly to say but based of what i know, i say around 2012/13 i
 ### What languages am i into?
 
 My goto language: V
+
 Other languages in order (From pro to noobish/i like):
 PY, PHP, C#, JS, c, ASM, NIM
 

@@ -9,6 +9,8 @@
 
 # About Me
 
+24 y/o Programmer Located in Eastern US
+
 ### What got me into coding?
 
 I've started modding PS3 around 2014 by that time i've already had dealt with VB.NET making fun skype tools then got into C# for Real Time Editing modification on PS3 GAMES.

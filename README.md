@@ -6,7 +6,7 @@
 The Latin Code Writer
 </div>
 
-<img width="80" src="http://skrillec.ovh/gehgedhb.png">
+<img src="http://skrillec.ovh/gehgedhb.png">
 
 # About Me
 

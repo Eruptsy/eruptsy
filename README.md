@@ -32,6 +32,7 @@ PY, PHP, C#, JS, c, ASM, NIM
 - [ ] [Messagram](https://github.com/Messagram/Messagram-Server) (PRIVATE) [Discord](https://discord.gg/R6JgBncGFQ)
 - [ ] [Skrillec II Botnet](https://github.com/Skrillec-Security/Skrillec-II) (PRIVATE) [Discord](https://join.skrillec.pw/)
 - [ ] [Packet Watch](https://github.com/Eruptsy/PacketWatch) (PRIVATE) (Discord Coming soon)
+- [ ] [Skrillec Manager](https://github.com/Skrillec-Security/Skrillec-Manager)
 
 ### What type of stuff i usually work on?
 

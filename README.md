@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="http://skrillec.ovh/gehgedhb.png">
+  <img src="https://media.discordapp.net/attachments/947128520105132042/955478123443548210/gehgedhb.png">
 </div>
 
 # About Me

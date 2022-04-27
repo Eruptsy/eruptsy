@@ -30,9 +30,8 @@ PY, PHP, C#, JS, c, ASM, NIM
 ### Current Projects in session:
 
 - [ ] [Messagram](https://github.com/Messagram/Messagram-Server) (PRIVATE) [Discord](https://discord.gg/R6JgBncGFQ)
-- [ ] [Skrillec II Botnet](https://github.com/Skrillec-Security/Skrillec-II) (PRIVATE) [Discord](https://join.skrillec.pw/)
-- [ ] [Packet Watch](https://github.com/Eruptsy/PacketWatch) (Open Source) (Discord Coming soon)
-- [ ] [Skrillec Manager](https://github.com/Skrillec-Security/Skrillec-Manager) (Private)
+- [ ] [Wocky III Botnet](https://github.com/Skrillec-Security/Wocky-III) (PRIVATE) [Discord](https://dc.wocky.cc)
+- [ ] [WockyFX](https://github.com/Eruptsy/WockyFX) (PRIVATE) [Discord](https://wfx.wocky.cc)
 
 ### What type of stuff i usually work on?
 

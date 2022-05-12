@@ -32,6 +32,8 @@ PY, PHP, C#, JS, c, ASM, NIM
 - [ ] [Messagram](https://github.com/Messagram/Messagram-Server) (PRIVATE) [Discord](https://discord.gg/R6JgBncGFQ)
 - [ ] [Wocky III Botnet](https://github.com/Skrillec-Security/Wocky-III) (PRIVATE) [Discord](https://dc.wocky.cc)
 - [ ] [WockyFX](https://github.com/Eruptsy/WockyFX) (PRIVATE) [Discord](https://wfx.wocky.cc)
+- [ ] [Wocky ANSI Bot]() (PRIVATE)
+- [ ] [API Manager Discord Bot]() (OPEN-SOURCE)
 
 ### What type of stuff i usually work on?
 
